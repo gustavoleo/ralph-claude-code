@@ -3,6 +3,10 @@
 .last_reset
 .exit_signals
 status.json
+.glm_worker_pid
+
+# GLM runtime data
+data/
 
 # Logs
 logs/*
